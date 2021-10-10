@@ -112,7 +112,7 @@ const CompanyCard = (props) => {
 
   if (user)
     return (
-      <Card href={user.url}>
+      <Card href={user.html_url}>
         <Image src={user.avatar_url} />
         <Card.Content>
           <Card.Header textAlign="center">{user.login}</Card.Header>
