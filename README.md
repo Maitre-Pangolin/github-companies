@@ -1,4 +1,4 @@
-# [Github Companies](https://maitre-pangolin.github.io/github-codemates/#/)
+# [Github Companies]("https://username.github.io/github-companies")
 
 An app to find github organisation profiles located in a particular city.
 
